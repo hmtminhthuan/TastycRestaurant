@@ -382,7 +382,7 @@ a {
   }
 }
 .box1 {
-  height: 200vh;
+  height: 1900px;
   width: 95%;
   position: relative;
   background-color: white;
@@ -747,14 +747,6 @@ a {
   border-top: dotted 4px rgba(26, 47, 51, 0.2);
   padding-top: 60px;
 }
-@media (max-width: 1440px) {
-  /*.box1-nav4 {
-    padding-top: 0px;
-  }*/
-  .box1 {
-    height: 200vh;
-  }
-}
 .box1-nav4 .number {
   text-align: center;
   padding: 0 50px;
@@ -790,7 +782,7 @@ a {
 .box2 {
   position: absolute;
   width: 60%;
-  height: 80vh;
+  height: 780px;
   top: 2900px;
   display: flex;
   align-items: center;
@@ -829,7 +821,7 @@ a {
   transform: translateY(3px);
 }
 .box3 {
-  height: 255vh;
+  height: 2460px;
   width: 95%;
   position: absolute;
   background-color: white;
